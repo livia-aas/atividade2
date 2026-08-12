@@ -1,2 +1,2 @@
-Atividade2
-atividade referente a WEB 1
+# atividade2
+Repositório referente a atividade de WEB 1
